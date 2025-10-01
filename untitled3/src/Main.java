@@ -24,7 +24,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String rutaCsv = "C:\\ej\\archivo.csv";
+        String rutaCsv = "C:\\Users\\DAM2\\gits\\ej 1 lluis";
 
         List<String[]> horario = leerCsv(rutaCsv);
 
