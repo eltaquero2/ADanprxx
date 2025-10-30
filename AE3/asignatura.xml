@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asignaturas>
+    <asignatura id="MAT001">
+        <nombre>Matemáticas</nombre>
+        <curso>4º ESO</curso>
+        <horas>
+            <hora>08:00-09:00</hora>
+            <hora>10:00-11:00</hora>
+        </horas>
+        <profesor>Laura Fernández</profesor>
+    </asignatura>
+
+    <asignatura id="LEN002">
+        <nombre>Lengua Castellana</nombre>
+        <curso>3º ESO</curso>
+        <horas>
+            <hora>09:00-10:00</hora>
+            <hora>12:00-13:00</hora>
+        </horas>
+        <profesor>Antonio Ruiz</profesor>
+    </asignatura>
+</asignaturas>

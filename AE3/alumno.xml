@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alumnos>
+                                
+    
+    
+    
+    
+    
+    
+    <alumno id="A001">
+                                                                
+        
+        
+        
+        
+        
+        
+        <nombre_completo>Juan Pérez López</nombre_completo>
+                                                                
+        
+        
+        
+        
+        
+        
+        <curso>4º ESO</curso>
+                                                                
+        
+        
+        
+        
+        
+        
+        <dni>12345678A</dni>
+                                                                
+        
+        
+        
+        
+        
+        
+        <fecha_nacimiento>2008-03-15</fecha_nacimiento>
+                                                                
+        
+        
+        
+        
+        
+        
+        <correos_padres>
+                                                                                                
+            
+            
+            
+            
+            
+            
+            <correo>madre.juan@example.com</correo>
+                                                                                                
+            
+            
+            
+            
+            
+            
+            <correo>padre.juan@example.com</correo>
+                                                                                            
+        
+        
+        
+        
+        
+        
+        </correos_padres>
+                                                                
+        
+        
+        
+        
+        
+        
+        <nombres_padres>
+                                                                                                
+            
+            
+            
+            
+            
+            
+            <nombre>María López</nombre>
+                                                                                                
+            
+            
+            
+            
+            
+            
+            <nombre>Carlos Pérez</nombre>
+                                                                                            
+        
+        
+        
+        
+        
+        
+        </nombres_padres>
+                                                                
+        
+        
+        
+        
+        
+        
+        <porcentaje_asistencia>0</porcentaje_asistencia>
+                                                            
+    
+    
+    
+    
+    
+    
+    </alumno>
+                                
+    
+    
+    
+    
+    
+    
+    <alumno id="A002">
+                                                                
+        
+        
+        
+        
+        
+        
+        <nombre_completo>Lucía García Torres</nombre_completo>
+                                                                
+        
+        
+        
+        
+        
+        
+        <curso>3º ESO</curso>
+                                                                
+        
+        
+        
+        
+        
+        
+        <dni>87654321B</dni>
+                                                                
+        
+        
+        
+        
+        
+        
+        <fecha_nacimiento>2009-06-25</fecha_nacimiento>
+                                                                
+        
+        
+        
+        
+        
+        
+        <correos_padres>
+                                                                                                
+            
+            
+            
+            
+            
+            
+            <correo>padres.lucia@example.com</correo>
+                                                                                            
+        
+        
+        
+        
+        
+        
+        </correos_padres>
+                                                                
+        
+        
+        
+        
+        
+        
+        <nombres_padres>
+                                                                                                
+            
+            
+            
+            
+            
+            
+            <nombre>Laura Torres</nombre>
+                                                                                                
+            
+            
+            
+            
+            
+            
+            <nombre>Javier García</nombre>
+                                                                                            
+        
+        
+        
+        
+        
+        
+        </nombres_padres>
+                                                                
+        
+        
+        
+        
+        
+        
+        <porcentaje_asistencia>3</porcentaje_asistencia>
+                                                            
+    
+    
+    
+    
+    
+    
+    </alumno>
+                            
+
+
+
+
+
+
+</alumnos>

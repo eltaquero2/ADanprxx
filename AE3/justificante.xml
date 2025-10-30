@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<justificantes>
+                                
+    
+    
+    
+    
+    
+    
+    <justificante id="J001">
+                                                                
+        
+        
+        
+        
+        
+        
+        <hora>08:00</hora>
+                                                                
+        
+        
+        
+        
+        
+        
+        <asignatura_ref>MAT001</asignatura_ref>
+                                                                
+        
+        
+        
+        
+        
+        
+        <alumno_ref>A001</alumno_ref>
+                                                                
+        
+        
+        
+        
+        
+        
+        <texto>Juan llegó tarde por motivos familiares.</texto>
+                                                                
+        
+        
+        
+        
+        
+        
+        <porque>Retraso en el transporte público</porque>
+                                                                
+        
+        
+        
+        
+        
+        
+        <curso>4º ESO</curso>
+                                                                
+        
+        
+        
+        
+        
+        
+        <justificada>sí</justificada>
+                                                            
+    
+    
+    
+    
+    
+    
+    </justificante>
+                                
+    
+    
+    
+    
+    
+    
+    <justificante id="J002">
+                                                                
+        
+        
+        
+        
+        
+        
+        <hora>09:00</hora>
+                                                                
+        
+        
+        
+        
+        
+        
+        <asignatura_ref>LEN002</asignatura_ref>
+                                                                
+        
+        
+        
+        
+        
+        
+        <alumno_ref>A002</alumno_ref>
+                                                                
+        
+        
+        
+        
+        
+        
+        <texto>Lucía no asistió a clase por cita médica.</texto>
+                                                                
+        
+        
+        
+        
+        
+        
+        <porque>Cita médica pediátrica</porque>
+                                                                
+        
+        
+        
+        
+        
+        
+        <curso>3º ESO</curso>
+                                                                
+        
+        
+        
+        
+        
+        
+        <justificada>sí</justificada>
+                                                            
+    
+    
+    
+    
+    
+    
+    </justificante>
+                                
+    
+    
+    
+    
+    
+    
+    <justificante id="J003">
+                                                                
+        
+        
+        
+        
+        
+        
+        <hora>10:00</hora>
+                                                                
+        
+        
+        
+        
+        
+        
+        <asignatura_ref>MAT001</asignatura_ref>
+                                                                
+        
+        
+        
+        
+        
+        
+        <alumno_ref>A001</alumno_ref>
+                                                                
+        
+        
+        
+        
+        
+        
+        <texto>Juan se ausentó sin previo aviso.</texto>
+                                                                
+        
+        
+        
+        
+        
+        
+        <porque>Sin justificar</porque>
+                                                                
+        
+        
+        
+        
+        
+        
+        <curso>4º ESO</curso>
+                                                                
+        
+        
+        
+        
+        
+        
+        <justificada>no</justificada>
+                                                            
+    
+    
+    
+    
+    
+    
+    </justificante>
+                            
+    
+    
+    
+    
+    
+    
+    <justificante id="J4">
+                                                        
+        
+        
+        
+        
+        
+        <hora>18:05</hora>
+                                                        
+        
+        
+        
+        
+        
+        <asignatura_ref>MAT001</asignatura_ref>
+                                                        
+        
+        
+        
+        
+        
+        <alumno_ref>A002</alumno_ref>
+                                                        
+        
+        
+        
+        
+        
+        <texto>Falta sin justificar</texto>
+                                                        
+        
+        
+        
+        
+        
+        <porque>No presentado justificante</porque>
+                                                        
+        
+        
+        
+        
+        
+        <curso>4º ESO</curso>
+                                                        
+        
+        
+        
+        
+        
+        <justificada/>
+                                                    
+    
+    
+    
+    
+    
+    </justificante>
+                        
+    
+    
+    
+    
+    
+    <justificante id="J5">
+                                                
+        
+        
+        
+        
+        <hora>18:06</hora>
+                                                
+        
+        
+        
+        
+        <asignatura_ref>LEN002</asignatura_ref>
+                                                
+        
+        
+        
+        
+        <alumno_ref>A002</alumno_ref>
+                                                
+        
+        
+        
+        
+        <texto>soy gay papa</texto>
+                                                
+        
+        
+        
+        
+        <porque>Justificada por el tutor</porque>
+                                                
+        
+        
+        
+        
+        <curso>3º ESO</curso>
+                                                
+        
+        
+        
+        
+        <justificada>si</justificada>
+                                            
+    
+    
+    
+    
+    </justificante>
+                    
+    
+    
+    
+    
+    <justificante id="J6">
+                                        
+        
+        
+        
+        <hora>18:12</hora>
+                                        
+        
+        
+        
+        <asignatura_ref>MAT001</asignatura_ref>
+                                        
+        
+        
+        
+        <alumno_ref>A001</alumno_ref>
+                                        
+        
+        
+        
+        <texto>Falta sin justificar</texto>
+                                        
+        
+        
+        
+        <porque>No presentado justificante</porque>
+                                        
+        
+        
+        
+        <curso>4º ESO</curso>
+                                        
+        
+        
+        
+        <justificada>n</justificada>
+                                    
+    
+    
+    
+    </justificante>
+                
+    
+    
+    
+    <justificante id="J7">
+                                
+        
+        
+        <hora>18:12</hora>
+                                
+        
+        
+        <asignatura_ref>MAT001</asignatura_ref>
+                                
+        
+        
+        <alumno_ref>A001</alumno_ref>
+                                
+        
+        
+        <texto>Falta sin justificar</texto>
+                                
+        
+        
+        <porque>No presentado justificante</porque>
+                                
+        
+        
+        <curso>4º ESO</curso>
+                                
+        
+        
+        <justificada>n</justificada>
+                            
+    
+    
+    </justificante>
+            
+    
+    
+    <justificante id="J8">
+                        
+        
+        <hora>18:17</hora>
+                        
+        
+        <asignatura_ref>LEN002</asignatura_ref>
+                        
+        
+        <alumno_ref>A002</alumno_ref>
+                        
+        
+        <texto>Falta sin justificar</texto>
+                        
+        
+        <porque>No presentado justificante</porque>
+                        
+        
+        <curso>3º ESO</curso>
+                        
+        
+        <justificada>n</justificada>
+                    
+    
+    </justificante>
+        
+    
+    <justificante id="J9">
+                
+        <hora>18:23</hora>
+                
+        <asignatura_ref>LEN002</asignatura_ref>
+                
+        <alumno_ref>A002</alumno_ref>
+                
+        <texto>Falta sin justificar</texto>
+                
+        <porque>No presentado justificante</porque>
+                
+        <curso>3º ESO</curso>
+                
+        <justificada>n</justificada>
+            
+    </justificante>
+    
+    <justificante id="J10">
+        <hora>18:27</hora>
+        <asignatura_ref>LEN002</asignatura_ref>
+        <alumno_ref>A002</alumno_ref>
+        <texto>Falta sin justificar</texto>
+        <porque>No presentado justificante</porque>
+        <curso>3º ESO</curso>
+        <justificada>n</justificada>
+    </justificante>
+</justificantes>
